@@ -1,4 +1,3 @@
-wtf
-sdksklfölsöös,
-sd,sd,sl,södl,s
+def greet(name):
+    print(f"Hallo, {name}")
 

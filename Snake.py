@@ -2,6 +2,7 @@ import pygame
 import time
 from random import *
 #wtf
+#another_shii
 def get_apple():
     apple = (randrange(20, 600, 20), randrange(20, 400, 20))
     return apple
