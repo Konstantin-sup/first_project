@@ -6,3 +6,7 @@ def age(age):
 
 def hobby(hobby):
     print(f"your hobby is {hobby}")
+
+def food(food):
+    print(f"your fav food is {food}")
+
