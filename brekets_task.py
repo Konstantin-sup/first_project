@@ -1,4 +1,4 @@
-#class for brakets task, slow but I solved it
+#class for brakets task, slow but I solved it by myself
 class Solution:
     brackets_map = {
     ")": "(",
